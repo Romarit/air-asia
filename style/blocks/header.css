@@ -1,0 +1,55 @@
+.header {
+	height: 77px;
+	margin-bottom: 118px;
+}
+
+.logo,
+.menu,
+.menu__item,
+.contacts {
+	display: inline-block;
+}
+
+.logo {
+	margin-top: 29px;
+	float: left;
+}
+
+.menu {
+	margin: 40px 0 0 79px;
+}
+
+.menu__item {
+	margin-right: 50px;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 19px;
+}
+
+.menu__item:last-child {
+	margin-right: 0;
+}
+
+.contacts {
+	margin-top: 27px;
+	margin-right: 41px;
+	float: right;
+	padding-right: 21px;
+}
+
+
+.contact__phone {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 35px;
+	margin-bottom: -6px;
+}
+
+.contacts__dropdown-title {
+	text-align: right;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 13px;
+
+}

@@ -1,0 +1,36 @@
+.footer {
+  height: 152px;
+}
+
+.footer__container {
+  position: relative;
+}
+
+.socials__list {
+  position: absolute;
+  right: 325px;
+  top: 30px;
+
+}
+
+.social__item {
+  display: inline-block;
+  margin-left: 6px;
+}
+
+.footer__contacts {
+  position: absolute;
+  display: block;
+  right: 60px;
+  top: 28px;
+  font-style: normal;
+  text-align: right;
+}
+.footer__contact-phone {
+  font-weight: 400;
+  font-size: 26px;
+}
+.footer__info {
+  font-weight: 400;
+  font-size: 11px;
+}
