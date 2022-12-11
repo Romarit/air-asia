@@ -42,3 +42,13 @@
   background: #F5170E;
   color: #fff;
 }
+
+.paginator__link--white {
+  background: #FFF;
+  color: #F5170E;
+}
+
+.paginator__link--red {
+  background: #F5170E;
+  color: #fff;
+}
