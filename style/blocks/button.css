@@ -13,6 +13,7 @@
 .button:hover {
   color: #fff;
 	background: #da0100;
+  transition: .5s;
 }
 
 .offers__button--light {
@@ -28,4 +29,17 @@
   background: #fff;
   color: #F5170E;
   margin-left: 49px;
+}
+
+.button--color--grey {
+  background: #8E8E8E;
+  padding: 18px 44px;
+}
+
+.button--color--grey:hover {
+  background: #2B2B2B;
+}
+
+.welcome__btn {
+  padding: 18px 60px;
 }

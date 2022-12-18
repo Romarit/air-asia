@@ -1,0 +1,14 @@
+.separator {
+  background: #F2F2F2 url("../../img/separator.png") center center no-repeat;
+  min-height: 363px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #FFFFFF;
+  padding-bottom: 10px;
+}
+
+.separator__content {
+  max-width: 53%;
+  
+}

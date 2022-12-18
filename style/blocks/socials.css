@@ -25,4 +25,5 @@
 
 .social__link:hover {
   filter: brightness(250%);
+  transition: .5s;
 }

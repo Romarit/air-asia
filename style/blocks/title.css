@@ -36,6 +36,36 @@
 .inner-section__title {
   font-weight: 700;
   font-size: 48px;
-  color: #1A1B1E;
+  color: #1a1b1e;
   margin-bottom: 56px;
+}
+
+.page-title__reviews {
+  padding-bottom: 80px;
+}
+
+.review__title {
+  font-weight: 700;
+  font-size: 30px;
+  color: #1a1b1e;
+  margin-bottom: 12px;
+  line-height: 42px;
+}
+
+.separator__title {
+  font-size: 48px;
+  line-height: 64px;
+  white-space: pre-line;
+  font-weight: bold;
+  margin-bottom: 60px;
+}
+
+.form__title {
+  margin-bottom: 66px;
+}
+
+.form__controls-title {
+  font-weight: 400;
+  font-size: 18px;
+  color: #1A1B1E;
 }

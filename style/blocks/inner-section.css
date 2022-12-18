@@ -21,8 +21,13 @@
 
 .partners__link:hover {
   filter: grayscale(0);
+  transition: .5s;
 }
 
 .partners__item:nth-child(4n) {
   margin-right: 0px;
+}
+
+.inner-section--bg--grey {
+  padding-top: 66px;
 }
